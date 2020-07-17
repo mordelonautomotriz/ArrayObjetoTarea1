@@ -24,12 +24,7 @@ Vehiculo_Autonomo(int valor_voltaje, int rapidez_pulso, String tipo_sensor){
 public class ArrayObjetoTarea1 {
 
     public static void main(String[] args) {
-        
-        System.out.println("\t\tUniversidad de las Fuerzas Armadas Espe - Sede Latacunga\n");
-        System.out.println("Materia: Programacion");
-        System.out.println("NRC: 7450");
-        System.out.println("Docente: Ing. Luis Guerra");
-        System.out.println("Nombre del Estudiante: Ortiz Hector\n");
+
        Vehiculo_Autonomo[]arreglo;
        arreglo = new Vehiculo_Autonomo[10];
        
